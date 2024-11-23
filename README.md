@@ -4,7 +4,7 @@ My own implementation of Cowsay but in Go. This is not a CLI tool. When ran, it 
 
 ## Screenshots
 
-![App Screenshot]("Screenshot.png")
+![App Screenshot](Screenshot.png)
 
 ## Usage
 
